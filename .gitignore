@@ -1,0 +1,17 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+.quicktree/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore the QuickTreeCopy state file
+.quicktree
