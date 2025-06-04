@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+main.onefile-build/
+main.dist/
+main.build/
 
 # Virtual environments
 .venv/
@@ -12,6 +15,6 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
-
+nuitka.txt
 # Ignore the QuickTreeCopy state file
 .quicktree

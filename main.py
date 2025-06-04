@@ -89,8 +89,8 @@ class TreeViewerApp:
         header_frame = ttk.Frame(main_container, style="Card.TFrame", padding=(20, 15))
         header_frame.pack(fill=tk.X, pady=(0, 20))
 
-        title_label = ttk.Label(header_frame, text="Quick Tree Copy", style="Header.TLabel")
-        title_label.pack(anchor="w", pady=(0, 10))
+        #title_label = ttk.Label(header_frame, text="Quick Tree Copy", style="Header.TLabel")
+        #title_label.pack(anchor="w", pady=(0, 10))
 
         path_frame = ttk.Frame(header_frame)
         path_frame.pack(fill=tk.X, pady=(0, 10))

@@ -1,7 +1,7 @@
 Quick Tree Copy
 =============
 
-QuickTreeCopy is a lightweight Tkinter application that generates and copies a directory tree structure in plain-text form—ideal for quickly feeding your file hierarchy into AI tools or documentation.
+QuickTreeCopy is a lightweight Tkinter application that generates and copies a directory tree structure in plain-text form—ideal for quickly feeding your file hierarchy into AI tools or documentation. Codeinplace Final Project!!
 
 Features
 --------
