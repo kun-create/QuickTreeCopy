@@ -11,6 +11,7 @@ main.build/
 env/
 venv/
 .quicktree/
+quicktreecopy
 
 # OS files
 .DS_Store
